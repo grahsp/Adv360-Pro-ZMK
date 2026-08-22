@@ -39,11 +39,11 @@
         default_layer {
             display-name = "Base";
             bindings = <
-&kp EQUAL  &kp N1          &kp N2              &kp N3               &kp N4             &kp N5  &tog 1                                                   &mo 3      &kp N6  &kp N7             &kp N8              &kp N9              &kp N0          &kp MINUS
-&kp TAB    &kp Q           &kp W               &kp F                &kp P              &kp B   &none                                                    &none      &kp J   &kp L              &kp U               &kp Y               &kp SEMICOLON   &kp BSLH
-&kp ESC    &hm LEFT_ALT A  &hm LEFT_COMMAND R  &hms LEFT_CONTROL S  &hms LEFT_SHIFT T  &kp G   &none     &none             &none      &none  &none      &none      &kp M   &hms LEFT_SHIFT N  &hm LEFT_CONTROL E  &hm LEFT_COMMAND I  &hm LEFT_ALT O  &kp SQT
-&kp LSHFT  &kp Z           &kp X               &kp C                &kp D              &kp V                               &none      &none                        &kp K   &kp H              &kp COMMA           &kp DOT             &kp FSLH        &kp RSHFT
-&mo 2      &kp GRAVE       &kp CAPS            &kp LEFT             &kp RIGHT                  &kp BSPC  &kp LEFT_CONTROL  &none      &none  &kp ENTER  &kp SPACE          &kp UP             &kp DOWN            &kp LBKT            &kp RBKT        &mo 2
+&kp EQUAL  &kp N1     &kp N2          &kp N3               &kp N4                  &kp N5  &tog 1                                                 &mo 3      &kp N6  &kp N7              &kp N8              &kp N9          &kp N0         &kp MINUS
+&kp TAB    &kp Q      &kp W           &kp F                &kp P                   &kp B   &none                                                  &none      &kp J   &kp L               &kp U               &kp Y           &kp SEMICOLON  &kp BSLH
+&kp ESC    &kp A      &hm LEFT_ALT R  &hms LEFT_COMMAND S  &hm LS(LEFT_CONTROL) T  &kp G   &none     &none           &none      &none  &none      &none      &kp M   &hm LEFT_CONTROL N  &hm LEFT_COMMAND E  &hm LEFT_ALT I  &kp O          &kp SQT
+&kp LSHFT  &kp Z      &kp X           &kp C                &kp D                   &kp V                             &none      &none                        &kp K   &kp H               &kp COMMA           &kp DOT         &kp FSLH       &kp RSHFT
+&mo 2      &kp GRAVE  &kp CAPS        &kp LEFT             &kp RIGHT                       &kp BSPC  &kp LEFT_SHIFT  &none      &none  &kp ENTER  &kp SPACE          &kp UP              &kp DOWN            &kp LBKT        &kp RBKT       &mo 2
             >;
         };
 
